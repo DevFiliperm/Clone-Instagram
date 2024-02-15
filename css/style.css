@@ -12,6 +12,9 @@ body{
   background-color: #fafafa;
 }
 
+a{
+  text-decoration: none;
+}
 
 .main-container{
   display: flex;
@@ -122,9 +125,6 @@ body{
   width: 17px;
 }
 
-.facebook-login a{
-  text-decoration: none;
-}
 
 .facebook-login span{
   font-size: 13px;
@@ -134,11 +134,10 @@ body{
 
 .forgot-pass{
   margin: 20px auto;
+  font-size: 11px;
+  color: #000;
 }
 
-.forgot-pass p{
-  font-size: 11px;
-}
 
 .register-container{
   background-color: #fff;
@@ -155,7 +154,6 @@ body{
 }
 
 .register-container a {
-  text-decoration: none;
   color: #2ba9fd;
   font-weight: bold;
 }
@@ -171,7 +169,7 @@ body{
 }
 
 .get-app-container a{
-  text-decoration: none;
+  t
 }
 
 .get-app-container img{
